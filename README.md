@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on Computer Vision
+- 🌱 I’m currently learning Something new and to finish it instead of dropping it.
+- 👯 I’m looking to collaborate on research ideas related to Unsupervised Learning
+- 💬 Ask me about Python | machine Learning and Data Science
+- 📫 How to reach me: Search Rednivrug on Google
+
 <!--
 **lucky630/lucky630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
