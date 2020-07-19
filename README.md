@@ -19,22 +19,21 @@
 <details>
 <summary>Data Scientist 📊</summary>
 <ul>
-  <li><a href="https://github.com/ashutosh1919/ml-data-bot">ml-data-bot</a></li>
-  <li><a href="https://github.com/dsc-iiitdmk/Pick-Parser">Pick-Parser</a></li>
-  <li><a href="https://github.com/ashutosh1919/Stock-Prediction-using-LSTM">Stock-Prediction-using-LSTM</a></li>
-  <li><a href="https://github.com/ashutosh1919/bert_classifier">bert-classifier</a></li>
-  <li><a href="https://github.com/ashutosh1919/docker-ml-tutorial">docker-ml-tutorial</li>
-  <li><a href="https://github.com/ashutosh1919/FaceInterpolation">face-interpolation</a></li>
-  <li><a href="https://github.com/ashutosh1919/NQA_tf2">natural-question-answer-ai</a></li>
+  <li><a href="https://github.com/lucky630/Model-pipeline">Automated-Pipeline</a></li>
+  <li><a href="https://github.com/lucky630/Face-Recognition-WebApp">Face-Recognition-Webapp</a></li>
+  <li><a href="https://github.com/lucky630/Chair_The_Fed_Rl">Reinforcement-Learning-GamePlay</a></li>
+  <li><a href="https://github.com/lucky630/ML-Challenges">Ml-Challenges-Solution</li>
   <li>Many more on and out of Github...</li>
 </ul>
 </details>
 
 <h3>What if you like my work? 🤩</h3>
+<details>
 <ul>
   <li>You can 👍 and 🔔 to my Youtube Channel.</li>
   <li>You can Star ⭐ the repositories you like.</li>
   <li>You can react ❤️ to my LinkedIn posts.</li>
 </ul>
+</details>
 
 ![Gurvinder's github stats](https://github-readme-stats.vercel.app/api?username=lucky630&show_icons=true)
