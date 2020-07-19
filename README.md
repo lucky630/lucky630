@@ -9,15 +9,13 @@
 <a href="https://soundcloud.com/rednivrug"><img src="https://github.com/lucky630/lucky630/blob/master/images/soundcloud_logo.png" width="40" /></a>
 
 
-- 🔭 I’m currently working on Computer Vision
-- 🌱 I’m currently learning Something new and to finish it instead of dropping it.
-- 👯 I’m looking to collaborate on research ideas related to Unsupervised Learning
-- 💬 Ask me about Python | machine Learning and Data Science
-- 📫 How to reach me: Search Rednivrug on Google
+<h3>The Questions You May Have 😕</h3>
 
-<h3>What I do? 👨‍💻</h3>
 <details>
-<summary>Data Scientist 📊</summary>
+<summary>What I do? 👨‍💻</summary>
+  <pre>
+  I'm a Machine Learning Engineer 📊 currently working on Computer Vision. i'm a passionate individual who always thrive to work on end to end products.<br>
+  </pre>
 <ul>
   <li><a href="https://github.com/lucky630/Model-pipeline">Automated-Pipeline</a></li>
   <li><a href="https://github.com/lucky630/Face-Recognition-WebApp">Face-Recognition-Webapp</a></li>
@@ -27,8 +25,17 @@
 </ul>
 </details>
 
-<h3>What if you like my work? 🤩</h3>
 <details>
+  <summary>How can i reach you 📫</summary>
+<ul>
+  <li>You can 🔗 me on Linkedin.</li>
+  <li>You can 📧 your Queries.</li>
+  <li>You can Google 🔍 Rednivrug and find some other channel 😉</li>
+</ul>
+</details>
+
+<details>
+  <summary>What if you like my work? 🤩</summary>
 <ul>
   <li>You can 👍 and 🔔 to my Youtube Channel.</li>
   <li>You can Star ⭐ the repositories you like.</li>
