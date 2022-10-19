@@ -20,9 +20,9 @@
   </pre>
 <ul>
   <li><a href="https://github.com/lucky630/Paper">Research-Paper</a></li>
-  <li><a href="https://github.com/lucky630/Face-Recognition-WebApp">Face-Recognition-Webapp</a></li>
   <li><a href="https://github.com/lucky630/Chair_The_Fed_Rl">Reinforcement-Learning-GamePlay</a></li>
   <li><a href="https://github.com/lucky630/ML-Challenges">ML-Challenges-Solution</a></li>
+  <li><a href="https://github.com/lucky630/Face-Recognition-WebApp">Face-Recognition-Webapp</a></li>
   <li>Many more on and out of Github...</li>
 </ul>
 </details>
