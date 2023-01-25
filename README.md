@@ -1,4 +1,4 @@
-<h1>Hi There, I am <a href="http://gurvinder.co.in/">Gurvinder</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi There, width="30px"></h1>
 <img align='right' src="https://github.com/lucky630/lucky630/blob/master/images/profile.jpg" width="230" />
 
 <a href="https://www.linkedin.com/in/rednivrug/"><img src="https://github.com/lucky630/lucky630/blob/master/images/linkedin.png" width="40" /></a>
