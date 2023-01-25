@@ -1,5 +1,5 @@
 <h1>Hi There, width="30px"></h1>
-<img align='right' src="https://github.com/lucky630/lucky630/blob/master/images/profile.jpg" width="230" />
+<img align='right' src="https://github.com/lucky630/lucky630/blob/master/images/profile.jpg" />
 
 <a href="https://www.linkedin.com/in/rednivrug/"><img src="https://github.com/lucky630/lucky630/blob/master/images/linkedin.png" width="40" /></a>
 <a href="https://lucky630.github.io/"><img src="https://github.com/lucky630/lucky630/blob/master/images/github-logo.png" width="40" /></a>
